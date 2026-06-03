@@ -1,0 +1,31 @@
+/* selector{
+ property:value;
+} */
+
+p{
+    color: rgb(255, 0, 212);
+}
+
+ <style>
+        h1{
+            background-color: rgb(4, 0, 255);
+        }
+        #text{
+            font-style: italic;
+            font-family:'Times New Roman', Time, serif ;
+            font-weight: bold;
+            font-size: 30px;
+            text-decoration: underline;
+        }
+        .link{
+            color: rgb(76, 0, 255);
+            text-decoration: none;
+        }
+        *{
+        color: chocolate(230,23.23,);
+        background-color: greenyellow;
+        }
+        h1,p,a{
+            color: rgb(209, 0, 209);
+        }
+    </style>
