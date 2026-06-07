@@ -278,10 +278,6 @@
 var userName={
     Name:"kavya",
     Dept:"CT",
-    skills{
-        programming:["Java","Javasscript"];
-        console.log(skills);
-    }
 }
 
 var user={
